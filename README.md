@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @egegirit
 - 👀 I’m interested in software development.
-- 🌱 I’m currently learning python and javascript.
+- 🌱 I’m currently learning python, javascript, DevOps and DevSecOps.
 - 📫 How to reach me -> egegirit@gmail.com
 
 <!---
