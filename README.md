@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @egegirit
 - 👀 I’m interested in software development.
-- 🌱 I’m currently learning AWS, DevOps and Typescript.
+- 🌱 I’m currently learning Java/Java Spring.
 - 📫 How to reach me -> egegirit@gmail.com
 
 ### Connect with me:
