@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @egegirit
 - 👀 I’m interested in software development.
-- 🌱 I’m currently learning Java/Java Spring.
+- 🌱 I’m currently learning Java/Web development.
 - 📫 How to reach me -> egegirit@gmail.com
 
 ### Connect with me:
